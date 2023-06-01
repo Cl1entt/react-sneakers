@@ -1,2 +1,2 @@
 # react-sneakers
-Sneakers-shop site
+📎link - https://cl1entt.github.io/react-sneakers/
